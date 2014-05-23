@@ -1,4 +1,4 @@
-Gera Payload 
+Gera Payload [Kali Linux]
 
 Olá,quando eu comecei a estudar python eu decidi fazer um atalho para a geração de payloads e de listens.
 Essa pequeno atalho possibilita que você gere payload LAN ou WAN.Não tenho muito para falar dele 
