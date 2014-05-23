@@ -1,0 +1,26 @@
+Gera Payload 
+
+Olá,quando eu comecei a estudar python eu decidi fazer um atalho para a geração de payloads e de listens.
+Essa pequeno atalho possibilita que você gere payload LAN ou WAN.Não tenho muito para falar dele 
+É bastante siples de usar.Veja como : 
+
+1 - Escolha o "alvo" 
+
+2 - Coloque o seu ip interno ou externo (caso você queira hackear fora da sua rede,claro que deve colocar o seu ip externo ! ) 
+
+3 - Coloque a porta que deseja fazer a "escuta" 
+
+4 - Coloque o nome do payload (não se preocupe com a extensão do arquivo,por exemplo .exe ou .apk,ele mesmo gera.) 
+
+5 - Caso queira executar a escuta agora,coloque "s" ou "sim" . 
+
+6 - Envie  o payload para o "alvo" 
+
+7 - Espere o "alvo" executar,e seja feliz 
+
+
+
+
+Criado por : 0l4t1 
+
+Você pode fazer quantas alterações quiser,mas não leve o crédito,isso é antiético
